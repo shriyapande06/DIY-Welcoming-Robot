@@ -82,9 +82,9 @@ The Arduino source code is located in:
 ## Audio File
 
 The welcome audio used by the DFPlayer Mini is located in:
-```
+
 ![Audio Track](robot voice.mp3)
-```
+
 ---
 
 ## Libraries Used
