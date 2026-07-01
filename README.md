@@ -66,9 +66,8 @@ This project demonstrates the practical implementation of Arduino with sensors, 
 ## Circuit Diagram
 
 Circuit Diagram is accesible here:
-```markdown
+
 ![Circuit Diagram](Circuit_Diagram.png)
-```
 
 ---
 
@@ -76,22 +75,16 @@ Circuit Diagram is accesible here:
 
 The Arduino source code is located in:
 
-```
-Code/
-└── robo_code.ino
-```
+![Code](robo_code.ino)
 
 ---
 
 ## Audio File
 
 The welcome audio used by the DFPlayer Mini is located in:
-
 ```
-Audio Track/
-└── robot voice.mp3
+![Audio Track](robot voice.mp3)
 ```
-
 ---
 
 ## Libraries Used
