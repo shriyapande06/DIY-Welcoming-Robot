@@ -26,7 +26,7 @@ This project demonstrates the practical implementation of Arduino with sensors, 
 
 ---
 
-## 🛠 Components Required
+## Components Required
 
 | Component | Quantity |
 |-----------|---------:|
