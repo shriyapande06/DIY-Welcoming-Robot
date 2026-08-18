@@ -1,4 +1,3 @@
-````markdown
 # DIY Welcoming Robot
 
 <p align="center">
@@ -76,7 +75,7 @@ The robot follows a simple sequence when a visitor approaches.
                        |
                        v
                  Standby Mode
-````
+```
 
 ---
 
@@ -346,43 +345,6 @@ The project can be further improved by adding:
 
 ---
 
-## Project Highlights
-
-| Feature          | Implementation    |
-| ---------------- | ----------------- |
-| Controller       | Arduino UNO R3    |
-| Motion Detection | PIR Motion Sensor |
-| Hand Movement    | Servo Motor       |
-| Visual Feedback  | Two LEDs          |
-| Audio Playback   | DFPlayer Mini     |
-| Audio Storage    | Micro SD Card     |
-| Speaker          | 3W Speaker        |
-| Programming      | Arduino IDE       |
-
----
-
-## Project Gallery
-
-### Robot
-
-<p align="center">
-  <img src="Images/robot.jpg" alt="Welcoming Robot" width="500">
-</p>
-
-### Block Diagram
-
-<p align="center">
-  <img src="Block%20Diagram/Block%20Diagram.png" alt="Block Diagram" width="750">
-</p>
-
-### Circuit Diagram
-
-<p align="center">
-  <img src="Circuit%20Diagram/Circuit%20Diagram.png" alt="Circuit Diagram" width="750">
-</p>
-
----
-
 ## Why This Project?
 
 The main goal of this project is to demonstrate how basic electronic components can be combined to create an interactive robotic system.
@@ -418,6 +380,6 @@ You are welcome to explore, modify and build upon this project for educational p
 </p>
 
 <p align="center">
-  If you found this project interesting, consider giving the repository a ⭐
+  If you found this project interesting, consider giving the repository a star.
 </p>
 ```
